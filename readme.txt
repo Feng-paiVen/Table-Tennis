@@ -1,2 +1,2 @@
-﻿some project
-I very like git.
+﻿I very like git.
+some project
